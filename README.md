@@ -1,7 +1,7 @@
 # gitMiniSite
-test de site web github
+test de site web github, mini site mini moi
 
-todo list de test:
+todo list de test:   
 - l'image n'est pas affichée. Attention de faire correspondre l'adresse img avec le minisite.  
 > https://nicolasdb.github.io/gitMiniBlog/img/welldone.jpg  
 et non   
